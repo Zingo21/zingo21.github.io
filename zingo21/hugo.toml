@@ -46,11 +46,8 @@ title = "Signar Kamparås"
     post = ""
 
     [[menu.main]]
-
     identifier = "linkedin"
-
     url = "https://www.linkedin.com/in/signar-kampar%C3%A5s-385b77220/"
     weight = 5
-
     pre = "<span data-feather='linkedin'></span>"
     post = ""
