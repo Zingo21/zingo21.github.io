@@ -16,14 +16,13 @@ title = "Signar Kamparås"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
+    pre = "<span data-feather='book'></span>"
     weight = 1
 
     [[menu.main]]
     name = "Projects"
-
     url = "/projects/"
-    pre = "<span dtat-feather='code'></span>"
-
+    pre = "<span data-feather='code'></span>"
     weight = 2
 
   [[menu.main]]
