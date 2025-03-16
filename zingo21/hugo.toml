@@ -1,7 +1,5 @@
 baseURL = "https://zingo21.github.io/"
 defaultContentLanguage = "en"
-# Automatically generate robots.txt
-enableRobotsTXT = true
 languageCode = "en"
 theme = "gokarna"
 title = "Signar Kamparås"
