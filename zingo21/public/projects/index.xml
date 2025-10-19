@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Signar Kamparås</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Signar Kamparås</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CraftDock</title>
+      <link>http://localhost:1313/projects/craftdock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/craftdock/</guid>
+      <description>&lt;p&gt;A Minecraft server running in a Docker container.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Github_client</title>
+      <link>http://localhost:1313/projects/github_client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/github_client/</guid>
+      <description>&lt;p&gt;This is a GitHub client app built in Flutter that allows you to log in to your Github account and view your public and private repositories and pull requests.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Name App</title>
+      <link>http://localhost:1313/projects/namer-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/namer-app/</guid>
+      <description>&lt;p&gt;My first app built in Flutter where this app genereates random words. It is working with Mac (Intel/M1, M2), Linux, Windows, iOS, Android and web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Password Manager</title>
+      <link>http://localhost:1313/projects/password-manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/password-manager/</guid>
+      <description>&lt;p&gt;A password manager built in python, which stores and encrypts your password.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stoppa Corona</title>
+      <link>http://localhost:1313/projects/stoppa-corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stoppa-corona/</guid>
+      <description>&lt;p&gt;I created this Android app in high-school when the pandemic was hitting the world.&#xA;The app collected the data using an API from the John Hopkins University.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Window_to_front</title>
+      <link>http://localhost:1313/projects/window_to_front/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/window_to_front/</guid>
+      <description>&lt;p&gt;A plugin built in Flutter to make an app appear at the front after being logged in to the browser.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

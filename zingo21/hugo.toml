@@ -1,8 +1,27 @@
 baseURL = "https://zingo21.github.io/"
 defaultContentLanguage = "en"
+enableEmoji = true
 languageCode = "en"
 theme = "gokarna"
 title = "Signar Kamparås"
+
+[params]
+    avatarURL = "images/avatar."
+    avatarAltText = "Avatar"
+    avatarSize = "size-m"
+    dateFormat = "2 January, 2006"
+
+    description = "Hi, I'm Signar, and I'm studying NSA at the University of Skövde."
+    footer = "Signar Kamparås - Zingo21"
+    showBackToTopButton = true
+    numberPostOnHomePage = 4
+    showPostsOnHomePage = "recent"
+
+    socialIcons = [
+        {name = "linkedin", url = "https://www.linkedin.com/in/signar-kampar%C3%A5s-385b77220/"}, 
+        {name = "github", url = "https://github.com/zingo21"}, 
+        {name = "email", url = "mailto:kamparassignar@gmail.com"}
+    ]
 
 [menu]
   [[menu.main]]
